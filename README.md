@@ -12,13 +12,6 @@ Methodology:
 
 4. Website Publishing: The website was set to public so that anyone can access it online.
 
-Outcomes:
+Outcomes: Functional and online static website. Reliable and scalable hosting on the AWS cloud. Enhanced security with custom access policies. 
 
-Functional and online static website.
-Reliable and scalable hosting on the AWS cloud.
-Enhanced security with custom access policies.
-Technologies Used:
-
-Amazon S3: Object storage service on the AWS cloud.
-HTML: Markup language for creating web pages.
-JSON: Data interchange format for defining access policies.
+Technologies Used: Amazon S3: Object storage service on the AWS cloud. HTML: Markup language for creating web pages. JSON: Data interchange format for defining access policies.
