@@ -1,5 +1,4 @@
 # Static-Website-on-AWS-S3
-Static Website on AWS S3
 Project Description: Static Website on AWS S3
 Objective: To create and host a static website using the Amazon S3 service from AWS.
 
